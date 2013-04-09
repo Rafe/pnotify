@@ -6,5 +6,11 @@
       "./jquery.pnotify.min.js",
       "./jquery.pnotify.default.css",
       "./jquery.pnotify.default.icons.css"
+  ],
+  "ignore": [
+    "./includes",
+    "oxygen",
+    "devnote-stable.css",
+    "devnote.css"
   ]
 }
