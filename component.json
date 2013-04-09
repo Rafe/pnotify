@@ -1,0 +1,10 @@
+{
+  "name": "pnotify",
+  "version": "1.2.2",
+  "main": [
+      "./jquery.pnotify.js",
+      "./jquery.pnotify.min.js",
+      "./jquery.pnotify.default.css",
+      "./jquery.pnotify.default.icons.css"
+  ]
+}
